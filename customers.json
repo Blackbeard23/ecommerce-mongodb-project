@@ -1,0 +1,242 @@
+[
+    {
+        "customer_id": 1,
+        "name": "Catherine",
+        "email": "sparkskelly@example.com",
+        "address": {
+            "street": "79286 Julia Ways Apt. 729",
+            "city": "Lake Audrey",
+            "state": "Missouri"
+        }
+    },
+    {
+        "customer_id": 2,
+        "name": "Brandi",
+        "email": "stevenharris@example.org",
+        "address": {
+            "street": "83495 Williams Spurs Suite 628",
+            "city": "New Danielle",
+            "state": "Massachusetts"
+        }
+    },
+    {
+        "customer_id": 3,
+        "name": "Ross",
+        "email": "cody40@example.org",
+        "address": {
+            "street": "5301 Boyer Terrace",
+            "city": "South Rogerview",
+            "state": "Rhode Island"
+        }
+    },
+    {
+        "customer_id": 4,
+        "name": "Joshua",
+        "email": "nelsondavid@example.net",
+        "address": {
+            "street": "9049 Lynn Street",
+            "city": "East Melissaberg",
+            "state": "Mississippi"
+        }
+    },
+    {
+        "customer_id": 5,
+        "name": "Veronica",
+        "email": "figueroatiffany@example.net",
+        "address": {
+            "street": "3657 Rebecca Knolls Apt. 566",
+            "city": "Webbbury",
+            "state": "Wyoming"
+        }
+    },
+    {
+        "customer_id": 6,
+        "name": "Jack",
+        "email": "vjohnson@example.com",
+        "address": {
+            "street": "463 Thompson Roads",
+            "city": "West Mikayla",
+            "state": "North Dakota"
+        }
+    },
+    {
+        "customer_id": 7,
+        "name": "Zachary",
+        "email": "thomasnicholas@example.com",
+        "address": {
+            "street": "8942 Martha Island Suite 968",
+            "city": "Raymondmouth",
+            "state": "New Mexico"
+        }
+    },
+    {
+        "customer_id": 8,
+        "name": "Nicole",
+        "email": "terri35@example.org",
+        "address": {
+            "street": "889 Russell Ford Suite 594",
+            "city": "Schultzville",
+            "state": "Minnesota"
+        }
+    },
+    {
+        "customer_id": 9,
+        "name": "Tammy",
+        "email": "harrisrobert@example.org",
+        "address": {
+            "street": "643 Davis Bridge Suite 191",
+            "city": "Lake Justin",
+            "state": "Ohio"
+        }
+    },
+    {
+        "customer_id": 10,
+        "name": "Michael",
+        "email": "moorechristopher@example.org",
+        "address": {
+            "street": "551 Robert Islands",
+            "city": "Potterburgh",
+            "state": "Ohio"
+        }
+    },
+    {
+        "customer_id": 11,
+        "name": "Christopher",
+        "email": "warrenthomas@example.com",
+        "address": {
+            "street": "0895 Nathaniel Overpass Suite 129",
+            "city": "North Travis",
+            "state": "Maine"
+        }
+    },
+    {
+        "customer_id": 12,
+        "name": "Patrick",
+        "email": "szimmerman@example.net",
+        "address": {
+            "street": "5917 Seth Divide",
+            "city": "North Tiffanyland",
+            "state": "Missouri"
+        }
+    },
+    {
+        "customer_id": 13,
+        "name": "Taylor",
+        "email": "vlang@example.com",
+        "address": {
+            "street": "3444 Kristin Motorway",
+            "city": "East Kelly",
+            "state": "California"
+        }
+    },
+    {
+        "customer_id": 14,
+        "name": "Cheryl",
+        "email": "daniel96@example.org",
+        "address": {
+            "street": "9748 Cameron Vista Suite 775",
+            "city": "New Elizabethfurt",
+            "state": "Tennessee"
+        }
+    },
+    {
+        "customer_id": 15,
+        "name": "Danielle",
+        "email": "raymondrichardson@example.org",
+        "address": {
+            "street": "626 Dodson Track Apt. 952",
+            "city": "West Robert",
+            "state": "Montana"
+        }
+    },
+    {
+        "customer_id": 16,
+        "name": "Timothy",
+        "email": "cooperamanda@example.org",
+        "address": {
+            "street": "7389 Michele Unions",
+            "city": "Michaeltown",
+            "state": "Florida"
+        }
+    },
+    {
+        "customer_id": 17,
+        "name": "Elizabeth",
+        "email": "anixon@example.org",
+        "address": {
+            "street": "873 Davis Square",
+            "city": "Port Elizabeth",
+            "state": "Arizona"
+        }
+    },
+    {
+        "customer_id": 18,
+        "name": "Laura",
+        "email": "davidbrown@example.org",
+        "address": {
+            "street": "8736 Travis Overpass",
+            "city": "Ashleyport",
+            "state": "Idaho"
+        }
+    },
+    {
+        "customer_id": 19,
+        "name": "Sara",
+        "email": "washingtonmiguel@example.com",
+        "address": {
+            "street": "765 Jill Ford Suite 423",
+            "city": "Brooksmouth",
+            "state": "Idaho"
+        }
+    },
+    {
+        "customer_id": 20,
+        "name": "Mark",
+        "email": "turnerpedro@example.org",
+        "address": {
+            "street": "46357 Dyer Ridge",
+            "city": "Lake Lorettamouth",
+            "state": "West Virginia"
+        }
+    },
+    {
+        "customer_id": 21,
+        "name": "Meghan",
+        "email": "david11@example.net",
+        "address": {
+            "street": "3632 Nicholas Skyway",
+            "city": "Jonesburgh",
+            "state": "New Jersey"
+        }
+    },
+    {
+        "customer_id": 22,
+        "name": "Mary",
+        "email": "kellerjacob@example.net",
+        "address": {
+            "street": "869 Wilson Streets Suite 101",
+            "city": "Emilymouth",
+            "state": "Wisconsin"
+        }
+    },
+    {
+        "customer_id": 23,
+        "name": "John",
+        "email": "umendez@example.com",
+        "address": {
+            "street": "8138 Garner Turnpike Suite 306",
+            "city": "Lake Sarahton",
+            "state": "Illinois"
+        }
+    },
+    {
+        "customer_id": 24,
+        "name": "Brandon",
+        "email": "ssellers@example.org",
+        "address": {
+            "street": "78170 Janet Vista Suite 112",
+            "city": "Port Marcia",
+            "state": "Hawaii"
+        }
+    }
+]

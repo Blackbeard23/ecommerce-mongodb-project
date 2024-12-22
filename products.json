@@ -1,0 +1,122 @@
+[
+    {
+        "product_id": 101,
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "price": 1200.0
+    },
+    {
+        "product_id": 102,
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "price": 200.0
+    },
+    {
+        "product_id": 103,
+        "product_name": "Smartphone",
+        "category": "Electronics",
+        "price": 800.0
+    },
+    {
+        "product_id": 104,
+        "product_name": "Tablet",
+        "category": "Electronics",
+        "price": 600.0
+    },
+    {
+        "product_id": 105,
+        "product_name": "Monitor",
+        "category": "Electronics",
+        "price": 300.0
+    },
+    {
+        "product_id": 106,
+        "product_name": "Keyboard",
+        "category": "Accessories",
+        "price": 50.0
+    },
+    {
+        "product_id": 107,
+        "product_name": "Mouse",
+        "category": "Accessories",
+        "price": 30.0
+    },
+    {
+        "product_id": 108,
+        "product_name": "Desk Chair",
+        "category": "Furniture",
+        "price": 150.0
+    },
+    {
+        "product_id": 109,
+        "product_name": "Desk",
+        "category": "Furniture",
+        "price": 250.0
+    },
+    {
+        "product_id": 110,
+        "product_name": "Printer",
+        "category": "Electronics",
+        "price": 400.0
+    },
+    {
+        "product_id": 111,
+        "product_name": "Earbuds",
+        "category": "Electronics",
+        "price": 100.0
+    },
+    {
+        "product_id": 112,
+        "product_name": "Smartwatch",
+        "category": "Electronics",
+        "price": 250.0
+    },
+    {
+        "product_id": 113,
+        "product_name": "Bicycle",
+        "category": "Outdoors",
+        "price": 500.0
+    },
+    {
+        "product_id": 114,
+        "product_name": "Gaming Console",
+        "category": "Electronics",
+        "price": 400.0
+    },
+    {
+        "product_id": 115,
+        "product_name": "Coffee Maker",
+        "category": "Appliances",
+        "price": 100.0
+    },
+    {
+        "product_id": 116,
+        "product_name": "Lamp",
+        "category": "Furniture",
+        "price": 80.0
+    },
+    {
+        "product_id": 117,
+        "product_name": "TV",
+        "category": "Electronics",
+        "price": 1500.0
+    },
+    {
+        "product_id": 118,
+        "product_name": "Refrigerator",
+        "category": "Appliances",
+        "price": 1000.0
+    },
+    {
+        "product_id": 119,
+        "product_name": "Blender",
+        "category": "Appliances",
+        "price": 70.0
+    },
+    {
+        "product_id": 120,
+        "product_name": "Microwave",
+        "category": "Appliances",
+        "price": 150.0
+    }
+]

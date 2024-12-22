@@ -1,0 +1,275 @@
+[
+    {
+        "order_item_id": 301,
+        "order_id": 402,
+        "product_id": 111,
+        "quantity": 3,
+        "price": 611.79
+    },
+    {
+        "order_item_id": 302,
+        "order_id": 428,
+        "product_id": 105,
+        "quantity": 5,
+        "price": 2876.5
+    },
+    {
+        "order_item_id": 303,
+        "order_id": 404,
+        "product_id": 118,
+        "quantity": 5,
+        "price": 636.0
+    },
+    {
+        "order_item_id": 304,
+        "order_id": 430,
+        "product_id": 115,
+        "quantity": 1,
+        "price": 2041.81
+    },
+    {
+        "order_item_id": 305,
+        "order_id": 417,
+        "product_id": 111,
+        "quantity": 6,
+        "price": 2288.93
+    },
+    {
+        "order_item_id": 306,
+        "order_id": 418,
+        "product_id": 106,
+        "quantity": 10,
+        "price": 1142.9
+    },
+    {
+        "order_item_id": 307,
+        "order_id": 427,
+        "product_id": 103,
+        "quantity": 7,
+        "price": 1097.5
+    },
+    {
+        "order_item_id": 308,
+        "order_id": 412,
+        "product_id": 103,
+        "quantity": 9,
+        "price": 1995.47
+    },
+    {
+        "order_item_id": 309,
+        "order_id": 408,
+        "product_id": 110,
+        "quantity": 7,
+        "price": 2797.85
+    },
+    {
+        "order_item_id": 310,
+        "order_id": 425,
+        "product_id": 113,
+        "quantity": 10,
+        "price": 2747.4
+    },
+    {
+        "order_item_id": 311,
+        "order_id": 414,
+        "product_id": 111,
+        "quantity": 2,
+        "price": 551.53
+    },
+    {
+        "order_item_id": 312,
+        "order_id": 422,
+        "product_id": 118,
+        "quantity": 1,
+        "price": 527.05
+    },
+    {
+        "order_item_id": 313,
+        "order_id": 417,
+        "product_id": 107,
+        "quantity": 9,
+        "price": 969.45
+    },
+    {
+        "order_item_id": 314,
+        "order_id": 420,
+        "product_id": 103,
+        "quantity": 9,
+        "price": 212.6
+    },
+    {
+        "order_item_id": 315,
+        "order_id": 406,
+        "product_id": 102,
+        "quantity": 8,
+        "price": 2140.7
+    },
+    {
+        "order_item_id": 316,
+        "order_id": 429,
+        "product_id": 115,
+        "quantity": 2,
+        "price": 484.54
+    },
+    {
+        "order_item_id": 317,
+        "order_id": 426,
+        "product_id": 109,
+        "quantity": 9,
+        "price": 1919.5
+    },
+    {
+        "order_item_id": 318,
+        "order_id": 405,
+        "product_id": 117,
+        "quantity": 9,
+        "price": 574.44
+    },
+    {
+        "order_item_id": 319,
+        "order_id": 402,
+        "product_id": 102,
+        "quantity": 4,
+        "price": 415.95
+    },
+    {
+        "order_item_id": 320,
+        "order_id": 404,
+        "product_id": 120,
+        "quantity": 1,
+        "price": 943.92
+    },
+    {
+        "order_item_id": 321,
+        "order_id": 414,
+        "product_id": 118,
+        "quantity": 5,
+        "price": 1283.99
+    },
+    {
+        "order_item_id": 322,
+        "order_id": 423,
+        "product_id": 103,
+        "quantity": 8,
+        "price": 1198.33
+    },
+    {
+        "order_item_id": 323,
+        "order_id": 409,
+        "product_id": 114,
+        "quantity": 5,
+        "price": 111.75
+    },
+    {
+        "order_item_id": 324,
+        "order_id": 413,
+        "product_id": 108,
+        "quantity": 9,
+        "price": 439.41
+    },
+    {
+        "order_item_id": 325,
+        "order_id": 403,
+        "product_id": 117,
+        "quantity": 6,
+        "price": 1434.03
+    },
+    {
+        "order_item_id": 326,
+        "order_id": 407,
+        "product_id": 119,
+        "quantity": 5,
+        "price": 108.11
+    },
+    {
+        "order_item_id": 327,
+        "order_id": 419,
+        "product_id": 106,
+        "quantity": 10,
+        "price": 2529.62
+    },
+    {
+        "order_item_id": 328,
+        "order_id": 426,
+        "product_id": 103,
+        "quantity": 3,
+        "price": 2215.68
+    },
+    {
+        "order_item_id": 329,
+        "order_id": 408,
+        "product_id": 104,
+        "quantity": 9,
+        "price": 2256.06
+    },
+    {
+        "order_item_id": 330,
+        "order_id": 415,
+        "product_id": 103,
+        "quantity": 6,
+        "price": 2223.64
+    },
+    {
+        "order_item_id": 331,
+        "order_id": 415,
+        "product_id": 105,
+        "quantity": 6,
+        "price": 1846.68
+    },
+    {
+        "order_item_id": 332,
+        "order_id": 401,
+        "product_id": 106,
+        "quantity": 7,
+        "price": 2656.84
+    },
+    {
+        "order_item_id": 333,
+        "order_id": 419,
+        "product_id": 112,
+        "quantity": 7,
+        "price": 1657.64
+    },
+    {
+        "order_item_id": 334,
+        "order_id": 415,
+        "product_id": 116,
+        "quantity": 8,
+        "price": 972.18
+    },
+    {
+        "order_item_id": 335,
+        "order_id": 414,
+        "product_id": 116,
+        "quantity": 10,
+        "price": 623.81
+    },
+    {
+        "order_item_id": 336,
+        "order_id": 401,
+        "product_id": 112,
+        "quantity": 7,
+        "price": 2426.34
+    },
+    {
+        "order_item_id": 337,
+        "order_id": 415,
+        "product_id": 107,
+        "quantity": 2,
+        "price": 2454.21
+    },
+    {
+        "order_item_id": 338,
+        "order_id": 427,
+        "product_id": 114,
+        "quantity": 2,
+        "price": 2112.98
+    },
+    {
+        "order_item_id": 339,
+        "order_id": 410,
+        "product_id": 103,
+        "quantity": 5,
+        "price": 1077.88
+    }
+]
